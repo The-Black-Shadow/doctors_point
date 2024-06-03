@@ -1,4 +1,4 @@
-package com.tshadow.doctors_point
+package com.tshadow.doctorspoint
 
 import io.flutter.embedding.android.FlutterActivity
 

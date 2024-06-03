@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648901114811",
+    "project_id": "doctors-point-99107",
+    "storage_bucket": "doctors-point-99107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648901114811:android:94cfe707c8f12e585ba29e",
+        "android_client_info": {
+          "package_name": "com.tshadow.doctorspoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA79eOS-Ykcb4VP5kMX5-mRPJHqj3EAo8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
